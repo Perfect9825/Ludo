@@ -6,6 +6,7 @@ from tkinter import *
 from random import *
 import json
 
+#Checking how git branch works.
 root = Tk()
 
 BUTTONS_MAP = {}
