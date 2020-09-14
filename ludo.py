@@ -449,7 +449,7 @@ class Board(object):
         self.green_house.disable_all_house_buttons()
 
     def dice(self):
-        self.nums = sample(range(4, 7), 1)
+        self.nums = sample(range(1, 7), 1)
         print(self.nums)
         self.dice_label.configure(text=self.nums)
         if self.current_house.can_start_game(self.nums[0]):
