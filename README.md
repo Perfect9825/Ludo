@@ -13,8 +13,8 @@ Screenshots
 ---
 Start Game
 ----
-![](./img/start.png)
+![](img/start.png)
 
 End Game
 ----
-![](./img/End.png)
+![](img/End.png)
